@@ -1,0 +1,165 @@
+#fondo{
+    background: url(img/estilo/b3esnz5ra34y.jpg);
+    background-attachment: fixed;
+    background-size: 100vw 100vh;;
+    margin: 0;
+    padding: 0;
+}
+#background{
+    margin: 0 auto;
+    position: fixed;
+    opacity: 0.8;
+    top: 0;
+    right: 0;
+    background: violet;
+    z-index: 100;
+    }
+#backpanel{
+    margin: 0 auto;
+    position: absolute;
+    opacity: 0.8;
+    top: 0;
+    right: 0;
+    background: violet;
+    z-index: 100;
+}
+#Home{
+    margin: auto;
+    width: 85%;
+    margin-top: 75px;
+}
+#Gracias{
+    margin: auto; 
+    width: 450px; 
+    background: rgba(109, 83, 83, 0.4); 
+    padding: 10px 30px; 
+    margin-top: 100px;
+    box-sizing: border-box; 
+    border-radius: 7px;
+    
+}
+#login{
+    margin: auto;
+    width: 95%;
+    margin-top: 100px;
+}
+#contacto{
+    margin: auto;
+    width: 450px;
+    background: rgba(109, 83, 83, 0.4);
+    padding: 10px 20px;
+    margin-top: 100px;
+    box-sizing: border-box;
+    border-radius: 7px;
+}
+#carga{
+    margin: auto;
+    background: rgba(220, 63, 63, 0.4);
+    padding: 10px 20px;
+    margin-top: 100px;
+    box-sizing: border-box;
+    border-radius: 7px;
+}
+#Mensaje{
+    margin: auto;
+    width: 85%;
+    margin-top: 100px;
+}
+#Error{
+    margin: auto;
+    width: 85%;
+    margin-top: 100px;
+
+}
+#Productos{
+    margin: auto;
+    width: 95%;
+    margin-top: 100px;
+}
+
+#Tabla{
+    margin: auto;
+    width: 800px;
+    background: #f2adec;
+    padding: 10px 20px;
+    margin-top: 100px;
+    box-sizing: border-box;
+    border-radius: 7px;
+}
+td{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+#comentario{
+    margin: auto;
+    width: 95%;
+}
+a{
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: underline;
+    font-size: 20px;
+}
+#titulo{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    color:black;
+    text-decoration: underline;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    color:black;
+    text-decoration: underline;
+}   
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+.rounded{
+    padding: 15;
+    margin-bottom: 10px;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    margin-left: 30px;
+    width: auto;
+    font-size: 18px;
+}
+input, textarea{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border: none;
+}
+
+#checkbox{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border: none;
+    color: black;   
+}
+
+textarea{
+    min-height: 100px;
+    max-height: 200px;
+    max-width: 100%;
+}
+
+button{
+    background: #3e3efa;
+    color: black;
+    padding: 10px;   
+}
+.titulo{
+    text-decoration: underline;
+}
